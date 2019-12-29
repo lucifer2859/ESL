@@ -10,7 +10,7 @@ from torch import optim
 import torch.utils.data
 
 # public leaderboard
-# 194 | 2000 : 0。79066
+# 194 | 2000 : 0.79066
 
 epoch_num = 100000
 batch_size = 64

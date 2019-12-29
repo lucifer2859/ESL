@@ -41,7 +41,7 @@
 #### KNN: python knn.py (可在程序中设定K值)
 #### NN:  python xxx.py [train / test] 默认为train; e.g. python nn1.py | python nn1.py train | python nn1.py test
 #### SVM: python svm.py (可在程序中设定核函数)
-
+#### 输出文件通过 python xxx.py test > ../results/xxx.csv导出
 
 ## 最终选择模型：
 #### CNN: extra_cnn.py 0.88214
